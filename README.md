@@ -10,3 +10,4 @@ Manage users, roles, and permissions with this RBAC tool built using Next.js, Su
 
 🔍 On Dashboard:  
 Enter `editor@example.com` → click **Fetch Permission** to view assigned permissions.
+Enter `viewer@example.com` → click **Fetch Permission** to view assigned permissions.
